@@ -1,0 +1,10 @@
+adminUser:
+  password: local:minikube/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: craft.de.jet@gmail.com
+  token: local:minikube/pipelineUser:token
+  username: jatikuma29iv
+prow:
+  hmacToken: local:minikube/prow:hmacToken
