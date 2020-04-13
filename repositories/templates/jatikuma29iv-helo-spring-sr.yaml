@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jatikuma29iv
+    provider: github
+    repository: helo-spring
+  name: jatikuma29iv-helo-spring
+spec:
+  description: Imported application for jatikuma29iv/helo-spring
+  httpCloneURL: https://github.com/jatikuma29iv/helo-spring.git
+  org: jatikuma29iv
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: helo-spring
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jatikuma29iv/helo-spring.git
