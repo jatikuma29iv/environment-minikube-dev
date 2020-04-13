@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/jatikuma29iv/environment-minikube-dev.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jatikuma29iv
+  repo: helo-spring
+  url: https://github.com/jatikuma29iv/helo-spring.git
+  version: ""
+  versionURL: ""
