@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jatikuma29iv
+  repo: environment-minikube-dev
+  url: https://github.com/jatikuma29iv/environment-minikube-dev.git
+  version: ""
+  versionURL: ""
